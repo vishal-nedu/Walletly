@@ -1,0 +1,11 @@
+fastapi==0.142.2
+uvicorn==0.54.0
+SQLAlchemy==2.1.4
+psycopg[binary]==3.3.6
+pydantic==2.13.5
+python-decouple==3.8
+python-jose[cryptography]==3.5.0
+passlib==1.7.4
+bcrypt==4.0.1
+email-validator==2.3.0
+Jinja2==3.1.6
